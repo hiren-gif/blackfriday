@@ -1,0 +1,13 @@
+{
+  "name": "CtrlOps",
+  "url": "https://ctrlops.io/pricing",
+  "description": "Deploy, debug, manage and audit Linux servers with AI, from one local-first desktop app",
+  "category": "developer-tools",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "31% off Yearly and Lifetime plans",
+  "code": "BFCM31",
+  "discount": 31,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-02",
+  "icon": "https://ctrlops.io/favicon/android-chrome-512x512.png"
+}
